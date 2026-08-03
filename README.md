@@ -1,6 +1,6 @@
 # Browser for LoTW
 
-**Status:** 🔵 Closed alpha test
+**Status:** 🔵 Closed Alpha
 
 ![Browser for LoTW Chrome extension showing Browse, Search, Sort, and Filter features](docs/feature-graphic.png)
 

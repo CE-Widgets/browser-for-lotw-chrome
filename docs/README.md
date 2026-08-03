@@ -1,8 +1,9 @@
-# Browser for LoTW Documentation
+# Browser for LoTW Chrome Extension Documentation
 
-This directory contains documentation for Browser for LoTW.
+This directory contains documentation for the Browser for LoTW Chrome extension.
 
 ## Contents
 
-- Release Notes
-- Screenshots in [screenshots](screenshots/)
+- [Release Notes](release-notes.md)
+- [Screenshots](screenshots/)
+- [Product Page](https://champagne.engineering/browser-for-lotw-chrome)

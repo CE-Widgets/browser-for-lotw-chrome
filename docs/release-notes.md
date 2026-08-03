@@ -1,6 +1,6 @@
 # Release Notes
 
-## Version 0.1.0 — Production release
+## Version 2026.08.03-1 — Production release
 
 First production release of Browser for LoTW for Chrome on the Chrome Web Store.
 

@@ -1,6 +1,6 @@
 # Browser for LoTW
 
-**Status:** 🟢 Production — version `0.1.0`
+**Status:** 🟢 Production — version `2026.08.03-1`
 
 ![Browser for LoTW Chrome extension showing Browse, Search, Sort, and Filter features](docs/feature-graphic.png)
 

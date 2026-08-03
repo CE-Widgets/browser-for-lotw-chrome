@@ -1,12 +1,12 @@
 # Browser for LoTW
 
-**Status:** 🔵 Closed Alpha
+**Status:** 🟢 Production — version `0.1.0`
 
 ![Browser for LoTW Chrome extension showing Browse, Search, Sort, and Filter features](docs/feature-graphic.png)
 
 ## Chrome Web Store
 
-Chrome Web Store review has been submitted. The extension is currently in closed alpha testing.
+Available now on the Chrome Web Store.
 
 ## Overview
 

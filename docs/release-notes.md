@@ -1,8 +1,8 @@
 # Release Notes
 
-## Version 0.1.0
+## Version 0.1.0 — Production release
 
-Initial Closed Alpha release.
+First production release of Browser for LoTW for Chrome on the Chrome Web Store.
 
 ### Features
 
@@ -14,3 +14,4 @@ Initial Closed Alpha release.
 - Offline browsing and local storage
 - Demo mode
 - Language selection: English, French, German, Portuguese, and Spanish
+- LoTW credentials are used only for the active request and are not stored by the extension.

@@ -8,6 +8,8 @@
 
 Available now on the Chrome Web Store.
 
+[Get it on the Chrome Web Store](https://chromewebstore.google.com/detail/browser-for-lotw/eplicdjaoojmeaamhcibdeehhllnkjeg)
+
 ## Overview
 
 Browser for LoTW is a read-only Chrome extension for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records. It keeps downloaded records locally for offline browsing. LoTW credentials are used only for each download request and are not stored by the extension.
